@@ -1,9 +1,9 @@
 ## not disgusting computer architecture assignment
 ### to build
-```source build.sh```
+`$ source build.sh`
 binary stores in `build/`
 ### to test
-```source test.sh```
+`$ source test.sh`
 tests output stores in `tests/output/`
 
 
