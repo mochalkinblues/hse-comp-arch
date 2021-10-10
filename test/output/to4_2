@@ -1,0 +1,59 @@
+Container after sorting:
+Container contains 6 elements.
+0: Diagonal matrix:
+Dimensionality: 5
+Arithmetic mean: 54
+Elements: 
+54 0 0 0 0 
+0 54 0 0 0 
+0 0 54 0 0 
+0 0 0 54 0 
+0 0 0 0 54 
+
+1: Two dimensional array:
+Dimensionality: 5
+Arithmetic mean: 54
+Elements: 
+54 54 54 54 54 
+54 54 54 54 54 
+54 54 54 54 54 
+54 54 54 54 54 
+54 54 54 54 54 
+
+2: Lower triangular matrix:
+Dimensionality: 5
+Arithmetic mean: 32.4
+Elements: 
+54 0 0 0 0 
+54 54 0 0 0 
+54 54 54 0 0 
+54 54 54 54 0 
+54 54 54 54 54 
+
+3: Two dimensional array:
+Dimensionality: 4
+Arithmetic mean: 31
+Elements: 
+31 31 31 31 
+31 31 31 31 
+31 31 31 31 
+31 31 31 31 
+
+4: Diagonal matrix:
+Dimensionality: 4
+Arithmetic mean: 31
+Elements: 
+31 0 0 0 
+0 31 0 0 
+0 0 31 0 
+0 0 0 31 
+
+5: Lower triangular matrix:
+Dimensionality: 4
+Arithmetic mean: 19.375
+Elements: 
+31 0 0 0 
+31 31 0 0 
+31 31 31 0 
+31 31 31 31 
+

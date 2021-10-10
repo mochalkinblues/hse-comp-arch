@@ -1,0 +1,42 @@
+Filled container:
+Container contains 5 elements.
+0: Two dimensional array:
+Dimensionality: 3
+Arithmetic mean: 4
+Elements: 
+0 1 2 
+3 4 5 
+6 7 8 
+
+1: Lower triangular matrix:
+Dimensionality: 3
+Arithmetic mean: 1.33333
+Elements: 
+2 0 0 
+2 2 0 
+2 2 2 
+
+2: Diagonal matrix:
+Dimensionality: 3
+Arithmetic mean: 23.3333
+Elements: 
+45 0 0 
+0 10 0 
+0 0 15 
+
+3: Two dimensional array:
+Dimensionality: 1
+Arithmetic mean: 45
+Elements: 
+45 
+
+4: Lower triangular matrix:
+Dimensionality: 5
+Arithmetic mean: 1.9
+Elements: 
+12 0 0 0 0 
+14 13 0 0 0 
+1 -1 3.5 0 0 
+0 0 0 0 0 
+1 1 1 1 1 
+
