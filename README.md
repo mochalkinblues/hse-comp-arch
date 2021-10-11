@@ -4,7 +4,7 @@
 binary stores in `build/`
 ### to test
 `$ source test.sh`
-tests output stores in `tests/output/`
+tests output stores in `test/output/`
 
 
 *Enjoy!*
