@@ -1,12 +1,3 @@
-## not disgusting computer architecture assignment
-### to build
-```source build.sh```
-binary stores in `build/`
-### to test
-```source test.sh```
-tests output stores in `tests/output/`
+# *hse 21' computer architecture assignments*
 
-
-*Enjoy!*
-
-![](https://i.imgur.com/zt7smR4.jpeg)
+![](https://i.imgur.com/AD3MbBi.jpeg)

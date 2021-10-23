@@ -1,0 +1,67 @@
+Filled container:
+Container contains 6 elements.
+0: Two dimensional array:
+Dimensionality: 4
+Arithmetic mean: 6
+Elements: 
+13 -1 13 -1 
+13 -1 13 -1 
+13 -1 13 -1 
+13 -1 13 -1 
+
+1: Two dimensional array:
+Dimensionality: 3
+Arithmetic mean: 0
+Elements: 
+43 -43 0 
+32 -32 0 
+4 -4 0 
+
+2: Lower triangular matrix:
+Dimensionality: 3
+Arithmetic mean: 0
+Elements: 
+0 0 0 
+0 0 0 
+0 0 0 
+
+3: Diagonal matrix:
+Dimensionality: 1
+Arithmetic mean: 0
+Elements: 
+0 
+
+4: Diagonal matrix:
+Dimensionality: 20
+Arithmetic mean: 10.5
+Elements: 
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 7 0 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 9 0 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 10 0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 11 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 12 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 13 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 14 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 15 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 16 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 17 0 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 18 0 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 19 0 
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 20 
+
+5: Lower triangular matrix:
+Dimensionality: 4
+Arithmetic mean: 13.8706
+Elements: 
+46 0 0 0 
+23 32 0 0 
+-1 0.43 -1 0 
+45.3 76.2 1 0 
+
