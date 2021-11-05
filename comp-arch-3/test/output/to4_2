@@ -1,0 +1,57 @@
+Diagonal matrix:
+Dimensionality: 5
+Arithmetic mean: 54.0
+Elements: 
+54.0 0 0 0 0 
+0 54.0 0 0 0 
+0 0 54.0 0 0 
+0 0 0 54.0 0 
+0 0 0 0 54.0 
+
+Two dimensional array:
+Dimensionality: 5
+Arithmetic mean: 54.0
+Elements: 
+54.0 54.0 54.0 54.0 54.0
+54.0 54.0 54.0 54.0 54.0
+54.0 54.0 54.0 54.0 54.0
+54.0 54.0 54.0 54.0 54.0
+54.0 54.0 54.0 54.0 54.0
+
+Lower triangular matrix:
+Dimensionality: 5
+Arithmetic mean: 32.4
+Elements: 
+54.0 0 0 0 0
+54.0 54.0 0 0 0
+54.0 54.0 54.0 0 0
+54.0 54.0 54.0 54.0 0
+54.0 54.0 54.0 54.0 54.0
+
+Two dimensional array:
+Dimensionality: 4
+Arithmetic mean: 31.0
+Elements: 
+31.0 31.0 31.0 31.0
+31.0 31.0 31.0 31.0
+31.0 31.0 31.0 31.0
+31.0 31.0 31.0 31.0
+
+Diagonal matrix:
+Dimensionality: 4
+Arithmetic mean: 31.0
+Elements: 
+31.0 0 0 0 
+0 31.0 0 0 
+0 0 31.0 0 
+0 0 0 31.0 
+
+Lower triangular matrix:
+Dimensionality: 4
+Arithmetic mean: 19.375
+Elements: 
+31.0 0 0 0
+31.0 31.0 0 0
+31.0 31.0 31.0 0
+31.0 31.0 31.0 31.0
+

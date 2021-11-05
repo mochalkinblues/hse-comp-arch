@@ -1,0 +1,40 @@
+Two dimensional array:
+Dimensionality: 1
+Arithmetic mean: 45.0
+Elements: 
+45.0
+
+Diagonal matrix:
+Dimensionality: 3
+Arithmetic mean: 23.333333333333332
+Elements: 
+45.0 0 0 
+0 10.0 0 
+0 0 15.0 
+
+Two dimensional array:
+Dimensionality: 3
+Arithmetic mean: 4.0
+Elements: 
+0.0 1.0 2.0
+3.0 4.0 5.0
+6.0 7.0 8.0
+
+Lower triangular matrix:
+Dimensionality: 5
+Arithmetic mean: 1.9
+Elements: 
+1.0 0 0 0 0
+1.0 1.0 0 0 0
+1.0 1.0 0.0 0 0
+0.0 0.0 0.0 3.5 0
+-1.0 1.0 13.0 14.0 12.0
+
+Lower triangular matrix:
+Dimensionality: 3
+Arithmetic mean: 1.3333333333333333
+Elements: 
+2.0 0 0
+2.0 2.0 0
+2.0 2.0 2.0
+
